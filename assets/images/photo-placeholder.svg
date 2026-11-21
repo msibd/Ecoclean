@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <pattern id="h" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect width="28" height="28" fill="#DDE0E3"/>
+      <rect width="10" height="28" fill="#D1D5D9"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#h)"/>
+  <rect x="250" y="262" width="300" height="76" fill="#15161A"/>
+  <text x="400" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">PHOTO PLACEHOLDER</text>
+</svg>
